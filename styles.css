@@ -11,18 +11,18 @@
 
 
 .insidecard {
-	border: 1px solid black;
+	  border: 1px solid black;
     border-radius: 10px;
-	height: 280px;
-    width: 303px;
-    margin-right: 5px;
+	  height: 298px;
+    width: 300px;
+    margin-right: 10px;
     margin-left: 10px;
-    padding:10px;
-    font-size: 16px
+    padding:4px;
+    font-size: 15px
     }
 
 .stylelist{
-	list-style-type: none;
+	  list-style-type: none;
     margin: 0;
     padding: 0;
 }
