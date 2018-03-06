@@ -3,7 +3,7 @@
       
       height: 610px;
       width: 345px;
-      border-style:outset;
+      border-style: outset;
       border-radius: 15px 50px 30px 30px;
       background-color: green;
       
@@ -17,7 +17,7 @@
               width: 300px;
               margin-right: 10px;
               margin-left: 10px;
-              padding:4px;
+              padding: 4px;
               font-size: 15px
 }
 
@@ -27,11 +27,11 @@
               padding: 0;
 }
 
-.picture   {
+.picture  {
            	  border-radius: 30px;
               width: 320px;
-              height:200px;
-              margin:10px;
+              height: 200px;
+              margin: 10px;
 }    
 
 .cardheading {
